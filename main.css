@@ -1,0 +1,87 @@
+.main {
+    width: 90%;
+    height: 100vh;
+    margin-left:10vh;
+    margin-right: 10vh;
+    margin-bottom:10vh;
+    
+}
+.front {
+    
+    background: url("images/hero.jpg") 50% 100% no-repeat;
+    width: 100%;
+    height: 80vh;
+    margin-right: 10vh;
+    
+}
+.feet {
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+    width: 25%;
+    height: 26%;
+}
+.feet div {
+    min-width: 100%;
+    min-height: 100%;
+}
+.one {
+      
+    background: url("images/1.jpg") no-repeat;
+}
+.two {
+        
+    background: url("images/2.jpg") no-repeat;
+}
+.three {
+    background: url("images/3.jpg") no-repeat;
+}
+.four {
+    background: url("images/4.jpg")no-repeat;
+}
+nav {
+    display: block;
+}
+#header-nav {
+    position: relative;
+    width: 845px;
+    height: 36px;
+    top: 18px;
+    margin: 0 auto;
+    border-radius: 4px;
+    background: linear-gradient(#686868 50%, #8d8d8d);
+  }
+  #header-nav div:last-child {
+    border: none;
+  }
+  
+  .header-section {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    border-right: 1px solid #616161;
+    font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 36px;
+    background-position: 50% -30px;
+    cursor: pointer;
+  }
+  .footer {
+      
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-content: space-around;
+      font-size: 0.7em;
+  }
+  #second {
+      position: relative;
+      left: 10vh;
+  }
+  #flag {
+      display: flex;
+      position:relative;
+      left: 11vh;
+  }
