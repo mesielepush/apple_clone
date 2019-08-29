@@ -9,16 +9,15 @@ a {
     margin-left:10vh;
     margin-right: 10vh;
     margin-bottom:10vh;
-    
 }
+
 .front {
-    
     background: url("images/hero.jpg") 50% 100% no-repeat;
     width: 100%;
     height: 80vh;
-    margin-right: 10vh;
-    
+    margin-right: 10vh;    
 }
+
 .feet {
     display:flex;
     flex-direction: row;
@@ -26,27 +25,32 @@ a {
     width: 25%;
     height: 26%;
 }
+
 .feet div {
     min-width: 100%;
     min-height: 100%;
 }
+
 .one {
-      
     background: url("images/1.jpg") no-repeat;
 }
+
 .two {
-        
     background: url("images/2.jpg") no-repeat;
 }
+
 .three {
     background: url("images/3.jpg") no-repeat;
 }
+
 .four {
     background: url("images/4.jpg")no-repeat;
 }
+
 nav {
     display: block;
 }
+
 #header-nav {
     position: relative;
     width: 845px;
@@ -55,12 +59,13 @@ nav {
     margin: 0 auto;
     border-radius: 4px;
     background: linear-gradient(#686868 50%, #8d8d8d);
-  }
-  #header-nav div:last-child {
+}
+
+#header-nav div:last-child {
     border: none;
-  }
+}
   
-  .header-section {
+.header-section {
     display: inline-block;
     width: 100px;
     height: 36px;
@@ -72,27 +77,34 @@ nav {
     line-height: 36px;
     background-position: 50% -30px;
     cursor: pointer;
-  }
-  .footer {
-      
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      align-content: space-around;
-      font-size: 0.7em;
-  }
-  #second {
-      position: relative;
-      left: 10vh;
-  }
-  #flag {
-      display: flex;
-      position:relative;
-      left: 11vh;
-  }
-  #img_one {
-      margin-top: 25vh
-    }
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-around;
+    font-size: 0.7em;
+}
+#second {
+    position: relative;
+    left: 10vh;
+}
+
+#flag {
+    display: flex;
+    position:relative;
+    left: 11vh;
+}
+
+#last_footer {
+    position: relative;
+    right:95vh;
+    bottom: -3vh;
+}
+
+#img_one {
+    margin-top: 25vh
+}
 
 .central-content {
     color: white;
