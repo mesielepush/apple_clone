@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300&display=swap');
+
 a {
     font-style: none;
-    
 }
+
 .main {
     width: 90%;
     height: 100vh;
@@ -75,12 +76,12 @@ a {
     background-position: 50% -30px;
     cursor: pointer;
 }
+
 #search {
     display: flex;
     position: absolute;
     left: 88%;
-    top:-0.1vh
-    
+    top:-0.1vh    
 }
 
 #search_bar {
