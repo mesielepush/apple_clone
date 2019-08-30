@@ -16,11 +16,11 @@ a {
   background: url("images/hero.jpg") 50% 100% no-repeat;
   width: 100%;
   height: 80vh;
-  margin-right: 10vh;    
+  margin-right: 10vh;
 }
 
 .feet {
-  display:flex;
+  display: flex;
   flex-direction: row;
   background-color: white;
   width: 25%;
@@ -45,7 +45,7 @@ a {
 }
 
 .four {
-  background: url("images/4.jpg")no-repeat;
+  background: url("images/4.jpg") no-repeat;
 }
 
 
@@ -81,7 +81,7 @@ a {
   display: flex;
   position: absolute;
   left: 88%;
-  top:-0.1vh    
+  top: -0.1vh;
 }
 
 #search_bar {
@@ -90,7 +90,7 @@ a {
   position: absolute;
   left:2.5vh;
   top: 0.7vh;
-  background-color:#A6B4B7;
+  background-color: #A6B4B7;
 }
 
  #search i {
@@ -114,7 +114,7 @@ a {
 
 #flag {
   display: flex;
-  position:relative;
+  position: relative;
   left: 11vh;
 }
 
@@ -125,7 +125,7 @@ a {
 }
 
 #img_one {
-  margin-top: 25vh
+  margin-top: 25vh;
 }
 
 .central-content {
@@ -133,8 +133,8 @@ a {
   text-align: center;
   font-weight: lighter;
   padding-bottom: 160px;
-  position:relative;
-  top:15vh;
+  position: relative;
+  top: 15vh;
 }
 
 .central-content h1 {
