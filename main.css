@@ -7,7 +7,7 @@ a {
 .main {
   width: 90%;
   height: 100vh;
-  margin-left:10vh;
+  margin-left: 10vh;
   margin-right: 10vh;
   margin-bottom: 10vh;
 }
@@ -87,7 +87,7 @@ a {
   width: 80px;
   height: 25px;
   position: absolute;
-  left:2.5vh;
+  left: 2.5vh;
   top: 0.7vh;
   background-color: #A6B4B7;
 }
