@@ -48,7 +48,6 @@ a {
   background: url("images/4.jpg") no-repeat;
 }
 
-
 #header-nav {
   position: relative;
   width: 950px;
@@ -93,8 +92,8 @@ a {
   background-color: #A6B4B7;
 }
 
- #search i {
-  color:white;
+#search i {
+  color: white;
   position: absolute;
   top: 1vh;
 }
@@ -120,7 +119,7 @@ a {
 
 #last_footer {
   position: relative;
-  right:95vh;
+  right: 95vh;
   bottom: -3vh;
 }
 
@@ -152,7 +151,7 @@ a {
 }
 
 .central-content a {
-  color:white;
+  color: white;
   font-size: 1.5em;
   font-weight: 100;
   text-shadow: -0.25px 0 white, 0 0.25px white, 0.25px 0 white, 0 0.25px white;
