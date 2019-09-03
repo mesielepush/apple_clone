@@ -118,9 +118,8 @@ a {
 }
 
 #last_footer {
-  position: relative;
-  right: 95vh;
-  bottom: -3vh;
+  font-size: 0.7em;
+  margin-left: 30vh;
 }
 
 #img_one {
